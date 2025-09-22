@@ -1,7 +1,12 @@
 # System Diagnostics MCP Server
 
-A comprehensive system monitoring and diagnostics MCP server that provides detailed system metrics, application monitoring, and AI-powered recommendations for system optimization.
-
+### Know Your Computer (KYC) MCP Server
+Comprehensive system diagnostics and monitoring server providing detailed hardware information, performance metrics, and optimization recommendations.
+- Tools: 12 diagnostic tools including CPU, memory, storage, network, processes, applications, battery, motherboard details, and performance analysis
+- Resources: System metrics, hardware specifications, and real-time monitoring data
+- Platform: Cross-platform (Windows, macOS, Linux)
+- [Repository](https://github.com/vishnurudra-ai/KYC-mcp-server)
+  
 ## Features
 
 ### Core Monitoring Capabilities
