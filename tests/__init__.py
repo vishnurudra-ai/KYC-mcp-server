@@ -1,0 +1,1 @@
+"""Tests for System Diagnostics MCP Server"""
